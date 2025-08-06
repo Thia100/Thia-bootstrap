@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    font-family: "Outfit", sans-serif;
+    background-color: #d6e2f0;
+}
+
+h5{
+    color: #1f3251;
+}
+
+p{
+    color: #68778d;
+}
+
+#qr-card{
+    background-color: #ffffff;
+    border-radius: 1.25rem;
+}
+
+#qr-card img{
+    border-radius: 1rem;
+}
